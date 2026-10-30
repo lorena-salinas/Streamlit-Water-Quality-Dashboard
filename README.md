@@ -1,8 +1,11 @@
 # Water Quality Dashboard
 **CIS 3590 – Internship Ready Software Development**
+
 **Author:** Lorena Salinas
 
 An interactive web app, built with Streamlit and Plotly, for exploring water-quality readings.
+
+🔗 **Live app:** https://app-water-quality-dashboard-lfyc9j3ohgxpjtizwrduko.streamlit.app/
 
 ## Purpose
  
